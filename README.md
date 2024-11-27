@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mmap-vs-read-performance
 This PoC explores a performance comparison between these two methods by analyzing a scenario where a large file is accessed randomly.
 =======
@@ -83,4 +82,3 @@ rm mmap_test read_test large_file.txt
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
->>>>>>> 0e17d2a (Benchmarking tool for mmap vs read performance comparison with source files.)
