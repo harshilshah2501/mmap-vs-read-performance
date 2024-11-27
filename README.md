@@ -1,7 +1,3 @@
-# mmap-vs-read-performance
-This PoC explores a performance comparison between these two methods by analyzing a scenario where a large file is accessed randomly.
-=======
-
 # mmap vs read Performance Comparison
 
 This project demonstrates a performance comparison between memory-mapped I/O (`mmap()`) and the `read()` system call in C programming. The focus is on scenarios where random access to large files is required, showcasing how `mmap()` can outperform `read()` under specific conditions.
